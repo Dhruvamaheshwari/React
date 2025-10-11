@@ -56,7 +56,7 @@ React19/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Dhruvamaheshwari/React19.git
+   git clone https://github.com/Dhruvamaheshwari/React.git
    cd React19
    ```
 2. **Install dependencies:**
