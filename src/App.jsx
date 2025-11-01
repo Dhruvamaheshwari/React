@@ -17,7 +17,15 @@
 // import ColorPicker from "./Class 10/ColorPicker";
 // import Counter from "./Class 11/Counter";
 // import MyComponent from "./Class 12/MyCoponent";
-import ArrayComponent from "./Class 13/ArrayCmponent";
+// import ArrayComponent from "./Class 13/ArrayCmponent";
+// import MyComponent from "./Class 14/MyComponent";
+// import ToDoList from "./Class 15/ToDoList";
+// import UseEffect from "./Class 16/UseEffect";
+// import HightWidth from "./Class 16/HightWidth";
+// import DegitalClock from "./Class 17/DegitalClock";
+// import ComponenetA from "./Class 18/Problem/ComponentA";
+// import ComponenetA from "./Class 18/Solution/ComponentA";
+import MyComponent from "./Class 19/MyComponent";
 
 function App() {
   //? ---------------- ⁡⁢⁣⁢class 6⁡
@@ -76,7 +84,6 @@ function App() {
         <Button/> 
         <ProfilePicture/> */}
 
-
       {/*  ------- ⁡⁢⁣⁢class 8⁡
         <MyComponent/>
         <Counter /> */}
@@ -87,15 +94,33 @@ function App() {
       {/* ------- ⁡⁢⁣⁢class 10⁡
          <ColorPicker/> */}
 
-         {/* ----- ⁡⁢⁣⁢class 11⁡
+      {/* ----- ⁡⁢⁣⁢class 11⁡
          <Counter/> */}
 
-         {/* ------ ⁡⁢⁣⁢class 12⁡
+      {/* ------ ⁡⁢⁣⁢class 12⁡
           <MyComponent/> */}
 
-          <ArrayComponent/>
+      {/*  ------ ⁡⁢⁣⁢class 13⁡
+          <ArrayComponent/> */}
+
+      {/*  -------- ⁡⁢⁣⁢class 14⁡
+        <MyComponent/> */}
+
+      {/*  ----- ⁡⁢⁣⁢class 15⁡
+        <ToDoList/> */}
+
+      {/*  ---- ⁡⁢⁣⁢class 16⁡
+        <UseEffect/>
+        <HightWidth/> */}
+
+      {/*  ----- ⁡⁢⁣⁢class 17⁡
+        <DegitalClock/> */}
+
+      {/* ------ ⁡⁢⁣⁢class 18⁡
+       <ComponenetA /> */}
+
+       <MyComponent/>
     </>
   );
 }
 export default App;
- 

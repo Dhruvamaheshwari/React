@@ -23,7 +23,24 @@ React19/
 │   ├── Class 1/           # Header, Footer, Food components
 │   ├── Class 2/           # Card component
 │   ├── Class 3/           # Button component
-│   ├── ...                # More class folders (4-13)
+│   ├── Class 4/           # Student component
+│   ├── Class 5/           # UserGreeting component
+│   ├── Class 6/           # List, List2 components
+│   ├── Class 7/           # Button, ProfilePicture components
+│   ├── Class 8/           # Counter, MyComponent
+│   ├── Class 9/           # MyComponent (forms demo)
+│   ├── Class 10/          # ColorPicker
+│   ├── Class 11/          # Counter (advanced state)
+│   ├── Class 12/          # MyCoponent (object state)
+│   ├── Class 13/          # ArrayComponent
+│   ├── Class 14/          # MyComponent (custom logic)
+│   ├── Class 15/          # ToDoList
+│   ├── Class 16/          # HightWidth, UseEffect (hooks)
+│   ├── Class 17/          # DegitalClock
+│   ├── Class 18/          # UseContext (context API)
+│   │   ├── Problem/       # Context problem demo
+│   │   └── Solution/      # Context solution demo
+│   ├── Class 19/          # MyComponent, UseRef (refs demo)
 │   └── img/               # Images
 ├── index.html             # HTML template
 ├── package.json           # Project metadata & scripts
@@ -42,7 +59,11 @@ React19/
   - Conditional rendering
   - List rendering
   - Forms and controlled components
-  - Custom components (Card, Button, Counter, ColorPicker, etc.)
+  - Custom components (Card, Button, Counter, ColorPicker, ToDoList, DigitalClock, etc.)
+  - Advanced hooks: `useEffect`, `useContext`, `useRef`
+  - Context API: Problem & Solution demos
+  - Object and array state management
+  - Real-world UI patterns (ToDo, Clock, etc.)
 - **PropTypes**: Type checking for component props.
 - **ESLint**: Linting for code quality.
 
@@ -86,7 +107,7 @@ npm run build
 npm run lint
 ```
 
-## 🧩 Example Components
+## 🧩 Example Components & Lessons
 
 - **Header/Footer**: Basic layout components
 - **Food**: List rendering with variables
@@ -96,10 +117,16 @@ npm run lint
 - **UserGreeting**: Conditional rendering
 - **List/List2**: Dynamic lists with categories
 - **ProfilePicture**: Image and event handling
-- **Counter**: State and event-driven updates
+- **Counter**: State and event-driven updates (multiple styles)
 - **ColorPicker**: Controlled input and dynamic styles
 - **Form Examples**: Handling input, select, radio, and textarea
 - **ArrayComponent**: Array state and rendering
+- **ToDoList**: Classic todo app with state
+- **HightWidth**: Working with element size
+- **UseEffect**: Side effects and lifecycle
+- **DegitalClock**: Real-time clock with hooks
+- **UseContext (Problem/Solution)**: Context API usage and patterns
+- **UseRef**: Managing refs and DOM access
 
 ## 🛠️ Technologies Used
 
@@ -111,7 +138,13 @@ npm run lint
 
 ## 📚 Learning Path
 
-Each `Class X` folder is a mini-lesson or demo. Explore them in order or jump to any topic of interest. The main `App.jsx` file shows how to import and use these components.
+Each `Class X` folder is a mini-lesson or demo, now covering beginner to advanced React topics:
+
+- **Classes 1-6**: Basics (JSX, props, state, lists, events)
+- **Classes 7-13**: UI patterns, forms, and state management
+- **Classes 14-19**: Advanced React (custom logic, todo app, hooks, context, refs)
+
+Explore them in order or jump to any topic of interest. The main `App.jsx` file shows how to import and use these components.
 
 ## 🤝 Contributing
 
